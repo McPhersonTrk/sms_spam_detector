@@ -11,9 +11,9 @@ This project houses the SMS Spam Detection App, designed to classify text messag
 - [License](#license)
 
 ## Project Overview
-The SMS Spam Detection App leverages a machine learning model to accurately classify SMS messages. It uses a pipeline comprising TF-IDF vectorization and Linear Support Vector Classification to process and predict the nature of the text messages.
+The SMS Spam Detection App (gradio_sms_text_classification.ipynb) leverages a machine learning model to accurately classify SMS messages. It uses a pipeline comprising TF-IDF vectorization and Linear Support Vector Classification to process and predict the nature of the text messages.
 
-##Installation
+## Installation
 To run this project, you need to have Python installed on your system. Clone this repository, navigate to the project directory, and install the required dependencies:
 
 ## Usage
